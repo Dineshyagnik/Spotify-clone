@@ -52,13 +52,13 @@ nav ul li{
     /* background-image: url(bg.jpeg); */
     /* background-repeat: no-repeat; */
 }
-/* .img img{
+.img img{
     height: 400px;
-    width: 500px;
+    width: 100%;
     position: relative;
-    bottom: 424px;
-    left: 800px;
-} */
+    bottom: 20px;
+    /* left: 800px; */
+}
 
 .bottom{
     position: sticky;
